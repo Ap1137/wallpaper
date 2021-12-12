@@ -1,0 +1,35 @@
+.contain  {
+          height: 1000px;
+          width:50%;
+          background-image:linear-gradient(blue,gray);
+          background-size:cover;
+          background-attachment: fixed;
+          margin-left: auto;
+          margin-right: auto;
+          
+          
+}
+.para {
+      margin-right: 3px;
+      margin-top: 10px;
+      color:white;
+      font-style: normal;
+      font-size:1.2rem;
+      margin-top:70px;
+      
+}
+.heading {
+         text-align: center;
+         
+} 
+.about_img {
+         margin-left: 15px;
+      
+
+
+}      
+.about_para {
+           margin:auto;
+           font-size: 1.2rem;
+          
+}

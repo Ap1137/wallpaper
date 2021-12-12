@@ -1,0 +1,59 @@
+/* body {
+    background-image: url(picture/wall.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+} */
+
+.regtable {
+    margin: auto;
+    padding: 13px;
+    border: 2px;
+    border-style: solid;
+    color: dimgray;
+    border-radius: 20px 60px;
+    background-color: black;
+    border-spacing:20px;
+}
+
+.regtable tr td {
+    border: 1px whitesmoke;
+    border-radius: 20px 80px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    color: whitesmoke;
+    width: auto;
+    font-size: 15px;
+    border-style: groove;
+    border-collapse: separate;
+    width:150px;
+    font-size: 16px;
+    
+
+
+}
+
+ .regtable input {
+    margin: 5px;
+    padding: px;
+    border-radius: 70px 60px;
+
+
+}
+
+  .regbutton {
+    background-color: green;
+    color: white;
+    border: 3px;
+    width:110px;
+    height:30px;
+    border-radius: 30px 90px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family:vardana;
+
+
+
+
+}
